@@ -62,13 +62,6 @@ Passionate Front-end Engineer with a keen eye for creating intuitive, performanc
   </a>
 </p>
 
-## 👀 Profile Views
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DevNishantHub)
-
-## 💡 Quick Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevNishantHub&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
 ## 🏆 Achievements
 - 🥇 Open Source Contributor

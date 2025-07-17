@@ -29,7 +29,7 @@ Passionate Front-end Engineer with a keen eye for creating intuitive, performanc
 - 🧪 Robust Calculation Logic
 
 ## 📈 Visitors
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![counter](https://github.com/DevNishantHub.m.pipedream.net)
 
 ## 📊 GitHub Metrics
 

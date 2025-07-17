@@ -1,6 +1,6 @@
 # 👨‍💻 Nishant Kumar | Front-end Engineer & DevOps Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=2196F3&width=600&lines=Crafting+Elegant+Web+Experiences;Transforming+Ideas+into+Digital+Solutions;JavaScript+%7C+React+%7C+DevOps+Innovator)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnishanthub&label=Profile%20views&color=0e75b6&style=flat" alt="devnishanthub" /> </p>
 
 ## 🌐 About Me
 Passionate Front-end Engineer with a keen eye for creating intuitive, performance-driven web applications. Bridging the gap between design and functionality through innovative coding solutions.

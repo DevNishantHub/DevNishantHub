@@ -1,7 +1,4 @@
 # 👨‍💻 Nishant Kumar | Front-end Engineer & DevOps Enthusiast
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnishanthub&label=Profile%20views&color=0e75b6&style=flat" alt="devnishanthub" /> </p>
-
 ## 🌐 About Me
 Passionate Front-end Engineer with a keen eye for creating intuitive, performance-driven web applications. Bridging the gap between design and functionality through innovative coding solutions.
 

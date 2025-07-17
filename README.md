@@ -29,7 +29,7 @@ Passionate Front-end Engineer with a keen eye for creating intuitive, performanc
 - 🧪 Robust Calculation Logic
 
 ## 📈 Visitors
-![counter](https://github.com/DevNishantHub.m.pipedream.net)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnishanthub&label=Profile%20views&color=0e75b6&style=flat" alt="devnishanthub" /> </p>
 
 ## 📊 GitHub Metrics
 

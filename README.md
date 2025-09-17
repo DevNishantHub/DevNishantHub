@@ -1,69 +1,85 @@
-# 👨‍💻 Nishant Kumar | Front-end Engineer & DevOps Enthusiast
-## 🌐 About Me
-Passionate Front-end Engineer with a keen eye for creating intuitive, performance-driven web applications. Bridging the gap between design and functionality through innovative coding solutions.
+# Hi there, I'm Nishant Kumar 👋
 
-## 🛠️ Tech Ecosystem
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring+DevOps+Engineer;Learning+%7C+Building+%7C+Sharing;Open+to+Opportunities" alt="Typing SVG" />
+</div>
 
-### Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,threejs" />
-</p>
+## 🚀 About Me
 
-### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
-</p>
+I'm a passionate **DevOps enthusiast** from Delhi, India, on an exciting journey to become a skilled DevOps Engineer. I love working with different tools, configuring systems, and collaborating with people to build efficient solutions.
 
-## 🚀 Featured Project
+- 🔭 Currently working on **Kubernetes projects** and expanding my DevOps toolkit
+- 🌱 Actively learning and practicing with modern DevOps technologies
+- 💼 **Open to opportunities** as a DevOps Engineer
+- 📝 I write about my learning journey on [Hashnode](https://nishant21.hashnode.dev/)
+- ⚡ Fun fact: I enjoy playing **chess** in my free time
+- 💬 I love **configuring things** and **talking to different people**
 
-### 🧮 Simple Calculator
-[![Calculator Repo](https://github-readme-stats.vercel.app/api/pin/?username=DevNishantHub&repo=Simple-Calculator&theme=radical)](https://github.com/DevNishantHub/Simple-Calculator)
+## 🛠️ Tech Stack & Tools
 
-#### Project Highlights
-- 🔢 Responsive Design
-- 🎨 Clean, Intuitive UI
-- 📱 Cross-Platform Compatibility
-- 🧪 Robust Calculation Logic
+```yaml
+Cloud:          Azure
+Containerization: Docker, Kubernetes
+CI/CD:          Jenkins
+Configuration:  Ansible
+Version Control: Git, GitHub
+Operating System: Linux
+Scripting:      Python, Bash
+```
 
-## 📈 Visitors
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devnishanthub&label=Profile%20views&color=0e75b6&style=flat" alt="devnishanthub" /> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,ansible,git,github,linux,python,bash&theme=dark" />
+</div>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevNishantHub&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevNishantHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNishantHub&layout=compact&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNishantHub&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNishantHub&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNishantHub&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-## 🌱 Current Focus
-- Advanced React Patterns
-- Performance Optimization
-- Cloud Native DevOps
-- Three.js Animations
+## 🎯 Featured Projects
 
-## 🔗 Let's Connect!
+### 🔄 [Jenkins CI/CD Pipeline](https://github.com/DevNishantHub/Jenkins-final-project)
+A comprehensive Jenkins project demonstrating automated CI/CD pipeline setup with best practices for continuous integration and deployment.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-kumar-b8aa6b313">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 🐳 [Docker WordPress Deployment](https://github.com/DevNishantHub/Docker-with-wordpress)
+Containerized WordPress application using Docker, showcasing container orchestration and web application deployment strategies.
 
+## 📝 Latest Blog Posts
 
-## 🏆 Achievements
-- 🥇 Open Source Contributor
-- 🌟 React Enthusiast
-- 🚀 DevOps Practitioner
+<!-- BLOG-POST-LIST:START -->
+I share my DevOps learning journey and technical insights on [Hashnode](https://nishant21.hashnode.dev/)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 Current Focus
+
+- 🔨 Building hands-on Kubernetes projects
+- 📚 Deepening knowledge in cloud-native technologies
+- 🤝 Contributing to open-source DevOps projects
+- 📖 Sharing knowledge through technical blogs
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://nishant21.hashnode.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DevNishantHub)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+<div align="center">
+  
+**"Learning, Building, and Sharing - One commit at a time"**
+
+![Profile Views](https://komarev.com/ghpvc/?username=DevNishantHub&color=58A6FF&style=flat-square)
+
+</div>

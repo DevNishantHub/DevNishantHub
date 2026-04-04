@@ -1,7 +1,7 @@
 # Hi there, I'm Nishant Kumar 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Aspiring+DevOps+Engineer;Learning+%7C+Building+%7C+Sharing;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps;Learning+%7C+Building+%7C+Sharing;Open+to+Opportunities" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me

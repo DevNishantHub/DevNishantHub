@@ -1,85 +1,60 @@
-# Hi there, I'm Nishant Kumar 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps;Learning+%7C+Building+%7C+Sharing;Open+to+Opportunities" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+<img src="./ascii.svg" width="460" alt="Nishant Kumar"/>
 
-I'm a passionate **DevOps enthusiast** from Delhi, India, on an exciting journey to become a skilled DevOps Engineer. I love working with different tools, configuring systems, and collaborating with people to build efficient solutions.
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-- 🔭 Currently working on **Kubernetes projects** and expanding my DevOps toolkit
-- 🌱 Actively learning and practicing with modern DevOps technologies
-- 💼 **Open to opportunities** as a DevOps Engineer
-- 📝 I write about my learning journey on [Hashnode](https://nishant21.hashnode.dev/)
-- ⚡ Fun fact: I enjoy playing **chess** in my free time
-- 💬 I love **configuring things** and **talking to different people**
-
-## 🛠️ Tech Stack & Tools
-
-```yaml
-Cloud:          Azure
-Containerization: Docker, Kubernetes
-CI/CD:          Jenkins
-Configuration:  Ansible
-Version Control: Git, GitHub
-Operating System: Linux
-Scripting:      Python, Bash
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,ansible,git,github,linux,python,bash&theme=dark" />
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevNishantHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevNishantHub&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNishantHub&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🎯 Featured Projects
-
-### 🔄 [Jenkins CI/CD Pipeline](https://github.com/DevNishantHub/Jenkins-final-project)
-A comprehensive Jenkins project demonstrating automated CI/CD pipeline setup with best practices for continuous integration and deployment.
-
-### 🐳 [Docker WordPress Deployment](https://github.com/DevNishantHub/Docker-with-wordpress)
-Containerized WordPress application using Docker, showcasing container orchestration and web application deployment strategies.
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-I share my DevOps learning journey and technical insights on [Hashnode](https://nishant21.hashnode.dev/)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Current Focus
-
-- 🔨 Building hands-on Kubernetes projects
-- 📚 Deepening knowledge in cloud-native technologies
-- 🤝 Contributing to open-source DevOps projects
-- 📖 Sharing knowledge through technical blogs
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](https://nishant21.hashnode.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/DevNishantHub)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[linkedin](https://www.linkedin.com/in/DevNishantHub/) &nbsp;·&nbsp;
+[github](https://github.com/DevNishantHub) &nbsp;·&nbsp;
+[email](mailto:your@email.com)
 
 </div>
 
----
+<img src="./hd-about.svg" width="620" alt="about"/>
+
+> CS student based in Gurugram, India.<br>
+> Build things that solve real problems, not just look good.
+
+I ship fast, validate with real users, and cut what doesn't work. Right now that's<br>
+[WantAnIdea](https://github.com/DevNishantHub/WantAnIdea) — crowdsourced project ideas with cognitive psychology to fight choice overload. Also<br>
+building automation tools: async Python services, result monitoring, intelligent deduplication.
+
+<img src="./hd-stack.svg" width="620" alt="stack"/>
+
+<samp>python &nbsp; javascript &nbsp; typescript &nbsp; react &nbsp; tailwind &nbsp; node &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[WantAnIdea](https://github.com/DevNishantHub/WantAnIdea)** &nbsp;·&nbsp; <samp>react, tailwind</samp><br>
+Crowdsourced project ideas platform with cognitive psychology principles.<br>
+Smart filters, social proof, collaboration features. Fights choice overload. Open-source.
+
+**[IPUScout](https://github.com/DevNishantHub/IPUScout)** &nbsp;·&nbsp; <samp>python</samp><br>
+Async Python service that monitors and auto-downloads exam result PDFs<br>
+from GGSIPU. Real-time detection, continuous monitoring, intelligent deduplication.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
-  
-**"Learning, Building, and Sharing - One commit at a time"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevNishantHub&color=58A6FF&style=flat-square)
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
+
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+Every graphic here is generated, not embedded from anyone else's server.<br>
+The stat graphics and section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
+
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. Language totals cover public repositories only.
